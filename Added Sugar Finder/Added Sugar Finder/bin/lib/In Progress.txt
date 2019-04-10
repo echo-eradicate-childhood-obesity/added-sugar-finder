@@ -1,0 +1,231 @@
+Name of Added Sugar
+Agave Nectar
+Agave Syrup
+Anhydrous Dextrose
+Apple Juice Concentrate
+Barley Malt
+Barley Malt Extract
+Barley Malt Syrup
+Beet Juice Concentrate
+Beet Sugar
+Beet Syrup
+Black Currant Juice Concentrate
+Blackberry Juice Concentrate
+Blackcurrant Juice Concentrate
+Blackstrap Molasses
+Blood Orange Juice Concentrate
+Blueberry Juice Concentrate
+Boysenberry Juice Concentrate
+Brown Cane Sugar
+Brown Rice Syrup
+Brown Rice Syrup Solids
+Brown Sugar
+Brown Sugar Syrup
+Cane Crystals
+Cane Juice
+Cane Juice Crystals
+Cane Molasses
+Cane Refinery Syrup
+Cane Sugar
+Cane Syrup
+Caramelized Pear Juice Concentrate
+Caramelized Sugar
+Caramelized Sugar Syrup
+Carrot Juice Concentrate
+Cherry Juice Concentrate
+Clarified Guava Juice Concentrate
+Clover Honey
+Coconut Blossom Sugar
+Coconut Nectar
+Coconut Palm Nectar
+Coconut Palm Sugar
+Coconut Sugar
+Coconut Sugar Crystals
+Concentrated Melon Juice
+Confectioners' Sugar
+Corn Barley Malt Syrup
+Corn Dextrin
+Corn Maltodextrin
+Corn Sweetener
+Corn Syrup
+Corn Syrup Butter
+Corn Syrup Solids
+Cranberry Juice Concentrate
+Crystalline Fructose
+Dark Brown Cane Sugar
+Dark Brown Sugar
+Date Crystals
+Date Juice Concentrate
+Date Syrup
+Decorative Sugars
+Dehydrated Cane Juice
+Dehydrated Cane Sugar
+Demerara Sugar
+Dextrin
+Dextrose
+Dextrose Anhydrous Glucose
+Dextrose Sugar
+Diastatic Malt
+Diastatic Malt Powder
+Dried Brown Rice Syrup
+Dried Cane Syrup
+Dried Cherry Juice Concentrate
+Dried Corn Syrup
+Dried Cranberry Juice Concentrate
+Dried Glucose Syrup
+Elderberry Juice Concentrate
+Evaporated Cane Crystals
+Evaporated Cane Juice
+Evaporated Cane Juice Invert Syrup
+Evaporated Cane Sugar
+Evaporated Cane Syrup
+Evaporated Coconut Palm Nectar
+Fair Trade Unrefined Cane Sugar
+Fondant Sugar
+Fructan
+Fructooligosaccharides
+Fructose
+Fruit Juice Concentrate
+Galactooligosaccharides
+Glucose
+Glucose Fructose Syrup
+Glucose Solids
+Glucose Syrup
+Glucose Syrup Solids
+Goji Berry Juice Concentrate
+Golden Brown Sugar
+Golden Syrup
+Granulated Sugar
+Grape Juice Concentrate
+Grape Sugar
+High Fructose Corn Syrup
+High Maltose Corn Syrup Solids
+Honey
+Honey Powder
+Honeydew Juice Concentrate
+Icing Sugar
+Invert Cane Syrup
+Invert Sugar
+Invert Sugar Cane Syrup
+Invert Syrup
+Isomalto-Oligosaccharide
+Kiwi Juice Concentrate
+Lactose
+Lemon Juice Concentrate
+Light Brown Cane Sugar
+Light Brown Sugar
+Liquid Sugar
+Loganberry Juice Concentrate
+Malt Extract
+Malt Syrup
+Maltodextrin
+Maltol
+Maltose
+Mango Juice Concentrate
+Maple Sugar
+Maple Syrup
+Milled Cane Sugar
+Molasses
+Molasses Granules
+Molasses Powder
+Monk Fruit Juice Concentrate
+Monk Juice Concentrate
+Muscovado
+Non Gmo Honey
+Oat Syrup Solids
+Orange Juice Concentrate
+Organic Agave
+Organic Agave Nectar
+Organic Apple Juice Concentrate
+Organic Barley Malt Syrup
+Organic Brown Rice Syrup
+Organic Brown Sugar
+Organic Cane Crystals
+Organic Cane Sugar
+Organic Cane Syrup
+Organic Caramel Syrup
+Organic Cherry Juice Concentrate
+Organic Coconut Blossom Nectar
+Organic Coconut Nectar
+Organic Coconut Palm Sugar
+Organic Coconut Sugar
+Organic Coconut Syrup
+Organic Date Nectar
+Organic Date Sugar
+Organic Dextrose
+Organic Dried Cane Sugar
+Organic Dried Cane Syrup
+Organic Dried Cherry Juice Concentrate
+Organic Evaporated Cane Juice
+Organic Evaporated Coconut Palm Nectar
+Organic Fair Trade Unrefined Cane Sugar
+Organic Glucose Syrup
+Organic Honey
+Organic Invert Cane Syrup
+Organic Invert Sugar
+Organic Invert Sugar Cane Syrup
+Organic Invert Sugar Syrup
+Organic Lactose
+Organic Light Brown Sugar
+Organic Maltodextrin
+Organic Maple Syrup
+Organic Milled Cane Sugar
+Organic Molasses
+Organic Molasses Granules
+Organic Non-Gmo Honey
+Organic Non-Gmo Honey
+Organic Pineapple Juice Concentrate
+Organic Powdered Sugar
+Organic Raw Dark Agave Syrup
+Organic Raw Honey
+Organic Rice Syrup
+Organic Strawberry Juice Concentrate
+Organic Sugar
+Organic Sugar Cane Syrup
+Organic Tapioca Maltodextrin
+Organic Tapioca Syrup
+Organic White Grape Juice Concentrate
+Passion Fruit Juice Concentrate
+Peach Concentrate
+Peach Juice Concentrate
+Pear Concentrate
+Pear Juice Concentrate
+Pear Syrup
+Pineapple Syrup
+Plum Juice Concentrate
+Pomegranate Juice Concentrate
+Pure Cane Golden Brown Sugar
+Pure Cane Sugar
+Pure Maple Syrup
+Raisin Juice Concentrate
+Raisin Nectar
+Raspberry Juice Concentrate
+Raw Cane Sugar
+Raw Honey
+Raw Sugar
+Refiner'S Syrup
+Refinery Syrup
+Rice Maltodextrin
+Rice Syrup Solids
+Strawberry Juice Concentrate
+Sugar
+Sugar Beet Syrup
+Sugar Cane Syrup
+Sugarcane Molasses
+Syrup
+Tapioca Dextrin
+Tapioca Maltodextrin
+Tapioca Syrup
+Tapioca Syrup Solids
+Tart Cherry Juice Concentrate
+Treacle
+Trehalose
+Turbinado Sugar
+Unsulfured Molasses
+Watermelon Juice Concentrate
+Wheat Dextrin
+Wheat Glucose Syrup
+White Grape Juice Concentrate
+White Sugar
+Wildflower Honey
+Yellow Sugar
